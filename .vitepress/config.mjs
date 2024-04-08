@@ -108,11 +108,20 @@ export default defineConfig({
         items: [
           { text: "电脑端芦笋录屏攻略", link: "/basic/pc" },
           { text: "手机端芦笋录屏攻略", link: "/basic/phone" },
+          { text: "🌟会员特权", link: "/basic/vip" },
         ],
       },
-      { text: "进阶教程", link: "/advanced" },
+      {
+        text: "进阶教程",
+        collapsed: false,
+        items: [
+          { text: "用芦笋制作“基础教育精品课”", link: "/advanced/jingpinke" },
+          { text: "添加视频封面", link: "/advanced/cover" },
+          { text: "两种人像抠图方式", link: "/advanced/koutu" },
+        ],
+      },
       { text: "常见问题", link: "/faq" },
-      { text: "联系我们", link: "/contact/" },
+      { text: "联系我们", link: "/contact" },
     ],
   },
 });
