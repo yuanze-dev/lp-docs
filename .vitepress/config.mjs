@@ -107,7 +107,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: "电脑端芦笋录屏攻略", link: "/basic/pc" },
-          { text: "移动端芦笋录屏攻略", link: "/basic/phone" },
+          { text: "手机端芦笋录屏攻略", link: "/basic/phone" },
         ],
       },
       { text: "进阶教程", link: "/advanced" },

@@ -34,7 +34,10 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 
 芦笋录屏提供了 4 种人像模式—【圆形人像、方形头像、虚拟背景、智能抠像】，下面的图片展示了 4 种模式对应的效果预览图
 
-<img src="../public/.gitbook/assets/luping4renxiang.png" alt=""><p>芦笋录屏录制人像的 4 种样式</p>
+<div align="center">
+  <img src="../public/.gitbook/assets/luping4renxiang.png" alt="">
+  <p align="center" style="font-size:12px; margin-top:0;" >芦笋录屏录制人像的 4 种样式</p>
+</div>
 
 <iframe src="https://lusun.com/embed/?id=HHZzCyivDIv" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
