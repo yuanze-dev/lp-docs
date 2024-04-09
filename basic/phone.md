@@ -78,7 +78,7 @@ description: 芦笋录屏如果在手机录制？无论是安卓手机，还是i
   <p align="center" style="font-size:12px; margin-top:0;">iOS 录制人像/屏幕模式</p>
 </div>
 
-1. 如果录制 「人像+文件」 模式，需要退出芦笋，从微信、WPS或其他软件 打开 pdf 格式文件，点击右上角三个点 - 使用其他应用打开 - 选择芦笋。然后选择屏幕方向、是否打开麦克风，点击「开始直播」👇
+3. 如果录制 「人像+文件」 模式，需要退出芦笋，从微信、WPS或其他软件 打开 pdf 格式文件，点击右上角三个点 - 使用其他应用打开 - 选择芦笋。然后选择屏幕方向、是否打开麦克风，点击「开始直播」👇
 
 <div align="center">
   <img src="../public/.gitbook/assets/iosp2.png" alt="">
