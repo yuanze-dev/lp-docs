@@ -38,6 +38,13 @@ const props = defineProps({
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.main-container:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  transform: scale(1.01);
+  transition: transform 0.3s;
+}
+
+
 .link-style {
   color: var(--text-color);
   display: flex;
