@@ -13,10 +13,9 @@ description: 这里介绍了如何联系芦笋录屏的官方人员，你可以�
 
 <img src="./public/.gitbook/assets/lupingwechat.png" alt="">
 
-<!-- ![巴拉巴拉](./public/.gitbook/assets/lupingwechat.png "山上的美景") -->
-
 ## 😁了解官方
 
 目前芦笋也会在三方媒体平台分享一些实用教程等内容，如果你也感兴趣可以关注
 
-<figure><img src=".gitbook/assets/douyinerweima.png" alt=""><figcaption><p>芦笋录屏/芦笋提词器抖音二维码</p></figcaption></figure>
+<img src="./public/.gitbook/assets/douyinerweima.png" alt="">
+<ImgDesc>芦笋录屏/芦笋提词器抖音二维码</ImgDesc>

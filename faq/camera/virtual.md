@@ -12,6 +12,6 @@ description: 如果你无法使用芦笋录屏的虚拟背景或智能抠像，�
    关闭路径：打开芦笋 - 右上角头像 - 设置 - 摄像头 - 我有绿幕
 
 <img src="../../public/.gitbook/assets/guanbilvmu.png" alt="">
-<imgDesc>关闭绿幕</imgDesc>
+<ImgDesc>关闭绿幕</ImgDesc>
 
 若以上教程无法解答问题，可以 [联系我们](../../contact.md) 帮助解决。

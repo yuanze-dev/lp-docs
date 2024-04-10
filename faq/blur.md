@@ -12,7 +12,7 @@ description: 如果你遇到了录制的视频有点模糊，有一些卡顿，�
 摄像头分辨率调整入口:打开芦笋客户端 - 右上角头像 - 设置 - 摄像头 - 分辨率
 
 <img src="../public/.gitbook/assets/fenbianlv.png" alt="">
-<imgDesc>设置分辨率</imgDesc>
+<ImgDesc>设置分辨率</ImgDesc>
 
 
 ### 如果视频卡顿
@@ -24,6 +24,6 @@ description: 如果你遇到了录制的视频有点模糊，有一些卡顿，�
 摄像头分辨率调整入口:打开芦笋客户端 - 右上角头像 - 设置 - 摄像头 - 分辨率
 
 <img src="../public/.gitbook/assets/shipinkadun.png" alt="">
-<imgDesc>设置入口，关闭美颜</imgDesc>
+<ImgDesc>设置入口，关闭美颜</ImgDesc>
 
 若以上教程无法解答问题，可以 [联系我们](../public/contact.md) 帮助解决。

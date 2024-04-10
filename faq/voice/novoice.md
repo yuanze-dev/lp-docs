@@ -20,7 +20,7 @@ description: 这里主要介绍了两类录制声音失败的排查方法
    [https://jingyan.baidu.com/article/7e4409532520076ec0e2eff3.html](https://jingyan.baidu.com/article/7e4409532520076ec0e2eff3.html?ref=help.lusun.com)
 
 <img src="../../public/.gitbook/assets/xuanzemaikefeng.jpeg" alt="">
-<imgDesc>选择其他麦克风</imgDesc>
+<ImgDesc>选择其他麦克风</ImgDesc>
 
 ### ❓没有系统声音
 
@@ -29,7 +29,7 @@ description: 这里主要介绍了两类录制声音失败的排查方法
 3. 苹果电脑录制系统声音，需要安装声卡驱动，详见[Mac教程文档](mac.md)
 
 <img src="../../public/.gitbook/assets/luzhixitongyin.jpeg" alt="">
-<imgDesc>Windows 开启录制系统声音</imgDesc>
+<ImgDesc>Windows 开启录制系统声音</ImgDesc>
 
 ## 👉手机端录制没有声音
 
@@ -42,7 +42,7 @@ description: 这里主要介绍了两类录制声音失败的排查方法
    2）苹果设备:打开芦笋 App - 开始录制前允许芦笋使用麦克风
 
 <img src="../../public/.gitbook/assets/shoujimaikefeng.png" alt="">
-<imgDesc>手机麦克风权限</imgDesc>
+<ImgDesc>手机麦克风权限</ImgDesc>
 
 1. 由于手机系统限制原因，同时只能有一个软件调用手机麦克风，若发现视频没有麦克风声音，请检查录制过程中是否有其他软件调用麦克风权限，如：视频通话软件、在线会议软件。
 
@@ -55,6 +55,6 @@ description: 这里主要介绍了两类录制声音失败的排查方法
 
 
 <img src="../../public/.gitbook/assets/shoujixitongyin.png" alt="">
-<imgDesc>手机麦克风权限</imgDesc>
+<ImgDesc>手机麦克风权限</ImgDesc>
 
 若以上教程无法解答问题，可以 [联系我们](../../contact.md) 帮助解决。

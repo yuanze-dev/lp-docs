@@ -13,12 +13,12 @@ description: 如果遇到摄像头打不开怎么办？可以按照以下方法
 1. 检查电脑摄像头是否有物理开关，如摄像头在键盘上
 
 <img src="../../public/.gitbook/assets/shexiangtouwulikaigaun.png" alt="">
-<imgDesc>摄像头物理开关</imgDesc>
+<ImgDesc>摄像头物理开关</ImgDesc>
 
 1. 选择其他摄像头列表里的其他选项，看是否能正常显示
 
 <img src="../../public/.gitbook/assets/qitashexiangtou.png" alt="">
-<imgDesc>选择其他摄像头看看是否能打开</imgDesc>
+<ImgDesc>选择其他摄像头看看是否能打开</ImgDesc>
 
 3. 若仍无法显示，可使用电脑微信的视频通话功能，检查摄像头是否正常；
 4. 若微信能启动摄像头，可能摄像头被其他应用占用。可尝试重启电脑，再次打开芦笋录屏；

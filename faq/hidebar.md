@@ -19,7 +19,7 @@ https://lusun.com/v/4RKMnDVVlLx
 <table><thead><tr><th width="164"></th><th width="230">Windows 系统</th><th>MacOS 系统</th></tr></thead><tbody><tr><td>快捷键</td><td>Ctrl + Shift +T</td><td>Command + Shift +T</td></tr></tbody></table>
 
 <img src="../public/.gitbook/assets/kuaijiejian.png" alt="">
-<imgDesc>芦笋录屏的快捷键</imgDesc>
+<ImgDesc>芦笋录屏的快捷键</ImgDesc>
 
 ### 方法二：设置隐藏/显示
 
@@ -28,7 +28,7 @@ https://lusun.com/v/4RKMnDVVlLx
 > 注意，本功能支持 win10 及以上设备使用，设置后，录制过程中仍然可以看到工具栏/芦笋 logo ，而录好的视频中工具栏/芦笋 logo 是隐藏的
 
 <img src="../public/.gitbook/assets/shezhiyincang.png" alt="">
-<imgDesc>芦笋录屏隐藏工具栏</imgDesc>
+<ImgDesc>芦笋录屏隐藏工具栏</ImgDesc>
 
 ***
 
