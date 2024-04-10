@@ -14,3 +14,15 @@ section > div.items a p{
 .vp-doc table > tbody > tr > td{
   vertical-align: top
 }
+
+
+/* 图片点击放大优先级调整 */
+.medium-zoom-image {
+  z-index: 9999 !important;
+}
+
+/* 文章图片圆角 */
+#VPContent img {
+  align-self: center;
+  border-radius: 1rem;
+}

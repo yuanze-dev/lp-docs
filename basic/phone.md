@@ -91,10 +91,8 @@ description: 芦笋录屏如果在手机录制？无论是安卓手机，还是i
 2. 「人像+文件」模式下，你可以根据个人需要使用画笔辅助讲解
 3. 点击屏幕左上角红色键完成录制，你的视频会自动上传到空间👇
 
-<div align="center">
-  <img src="../public/.gitbook/assets/iosp3.png" alt="">
-  <p align="center" style="font-size:12px; margin-top:0;">iOS录制后自动上传</p>
-</div>
+<img src="../public/.gitbook/assets/iosp3.png" alt="">
+<ImgDesc>iOS录制后自动上传</ImgDesc>
 
 #### 👉录制后的视频编辑与分享
 
@@ -102,10 +100,8 @@ description: 芦笋录屏如果在手机录制？无论是安卓手机，还是i
 2. 你也可以点击「分享」一键转发至微信，或复制视频链接并分享
 3. 你还可以点击视频上方的「高级报表」，查看视频访问数据
 
-<div align="center">
-  <img src="../public/.gitbook/assets/iosp4.jpeg" alt="">
-  <p align="center" style="font-size:12px; margin-top:0;">iOS视频分享</p>
-</div>
+<img src="../public/.gitbook/assets/iosp4.jpeg" alt="">
+<ImgDesc>iOS视频分享</ImgDesc>
 
 以上就是芦笋录屏手机端的全部介绍了，希望对你有所帮助。
 
