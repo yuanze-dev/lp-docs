@@ -29,6 +29,59 @@ export default defineConfig({
     },
   },
   themeConfig: {
+    nav: [
+      { text: "芦笋提词器", link: "https://tcq.lusun.com" },
+      { text: "关于我们", link: "https://lusun.com/about" },
+    ],
+    sidebar: [
+      {
+        text: "基础教程",
+        collapsed: false,
+        items: [
+          { text: "电脑端芦笋录屏攻略", link: "/basic/pc" },
+          { text: "手机端芦笋录屏攻略", link: "/basic/phone" },
+          { text: "会员特权", link: "/basic/vip" },
+        ],
+      },
+      {
+        text: "进阶教程",
+        collapsed: false,
+        items: [
+          { text: "用芦笋制作“基础教育精品课”", link: "/advanced/jingpinke" },
+          // { text: "添加视频封面", link: "/advanced/cover" },
+          // { text: "两种人像抠图方式", link: "/advanced/koutu" },
+        ],
+      },
+      {
+        text: "常见问题",
+        collapsed: false,
+        items: [
+          {
+            text: "声音问题",
+            collapsed: false,
+            items: [
+              { text: "Mac电脑录制系统声音", link: "/faq/voice/mac" },
+              { text: "录制的视频没有声音", link: "/faq/voice/novoice" },
+            ],
+          },
+          {
+            text: "摄像头问题",
+            collapsed: false,
+            items: [
+              { text: "摄像头打不开", link: "/faq/camera/cannot-open" },
+              {
+                text: "虚拟背景/智能抠像无法打开",
+                link: "/faq/camera/virtual",
+              },
+            ],
+          },
+          { text: "视频保存相关", link: "/faq/save" },
+          { text: "如何隐藏录制工具栏", link: "/faq/hidebar" },
+          { text: "录制的视频模糊", link: "/faq/blur" },
+        ],
+      },
+      { text: "联系我们", link: "/contact" },
+    ],
     search: {
       provider: "local",
       options: {
@@ -97,31 +150,5 @@ export default defineConfig({
     darkModeSwitchLabel: "切换主题",
     lightModeSwitchTitle: "切换到浅色模式",
     darkModeSwitchTitle: "切换到深色模式",
-    nav: [
-      { text: "芦笋提词器", link: "https://tcq.lusun.com" },
-      { text: "关于我们", link: "https://lusun.com/about" },
-    ],
-    sidebar: [
-      {
-        text: "基础教程",
-        collapsed: false,
-        items: [
-          { text: "电脑端芦笋录屏攻略", link: "/basic/pc" },
-          { text: "手机端芦笋录屏攻略", link: "/basic/phone" },
-          { text: "🌟会员特权", link: "/basic/vip" },
-        ],
-      },
-      {
-        text: "进阶教程",
-        collapsed: false,
-        items: [
-          { text: "用芦笋制作“基础教育精品课”", link: "/advanced/jingpinke" },
-          { text: "添加视频封面", link: "/advanced/cover" },
-          { text: "两种人像抠图方式", link: "/advanced/koutu" },
-        ],
-      },
-      { text: "常见问题", link: "/faq" },
-      { text: "联系我们", link: "/contact" },
-    ],
   },
 });
