@@ -1,5 +1,5 @@
 // .vitepress/theme/index.js
-import ImgDesc from "../components/ImgCenter.vue";
+import ImgCenter from "../components/ImgCenter.vue";
 import ImgDesc from "../components/ImgDesc.vue";
 import Link from "../components/Link.vue";
 import DefaultTheme from "vitepress/theme";

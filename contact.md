@@ -9,7 +9,7 @@ description: 这里介绍了如何联系芦笋录屏的官方人员，你可以�
 无论是产品体验问题，或产品功能类需求建议，欢迎你通过以下方式随时反馈～
 
 * 你可以通过发送邮件到 [lusun@yuanze.com](mailto:lusun@yuanze.com) 反馈
-* 你也可以关注 「芦笋」 微信公众号 或 **微信用户交流群**
+* 你也可以关注「芦笋」微信公众号 或 **微信用户交流群**
 
 <img src="./public/.gitbook/assets/lupingwechat.png" alt="">
 

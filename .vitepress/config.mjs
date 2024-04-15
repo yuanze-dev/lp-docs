@@ -48,6 +48,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: "用芦笋制作“基础教育精品课”", link: "/advanced/jingpinke" },
+          { text: "虚拟头像使用教程", link: "/advanced/avatar" },
           // { text: "添加视频封面", link: "/advanced/cover" },
           // { text: "两种人像抠图方式", link: "/advanced/koutu" },
         ],
