@@ -16,7 +16,7 @@ description: 你可以通过添加自定义水印，增加视频所属标识，�
 
 你可以打开电脑上的「[芦笋云空间](https://lusun.com/dashboard/videos)」，找到需要添加水印的视频，播放器右侧功能栏第 4 个为添加水印
 
-<ImgCenter><img src="../.gitbook/assets/shuiyin.png" alt="" width="375"></ImgCenter>
+<ImgCenter><img src="../public/.gitbook/assets/shuiyin.png" alt="" width="375"></ImgCenter>
 <ImgDesc>芦笋录屏添加水印入口</ImgDesc>
 
 目前，你可以设置水印的文字，并且可以调整透明度，以及位置
