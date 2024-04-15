@@ -18,25 +18,29 @@ description: 如果你需要进行美颜设置、快捷键设置等，可以参�
 
 你可以通过打开芦笋录屏客户端 - 右上角头像 - 设置 - 录制设置，进行操作
 
-<img src="../public/.gitbook/assets/meiyanjingxiang.png" alt=""><p>芦笋录屏电脑端美颜设置</p>
+<img src="../public/.gitbook/assets/meiyanjingxiang.png" alt="">
+<ImgDesc>芦笋录屏电脑端美颜设置</ImgDesc>
 
 #### 安卓手机端如何开启
 
 你可以打开芦笋录屏 App - 右下角我的 - 关于芦笋 - 美颜开关，进行操作
 
-<img src="../public/.gitbook/assets/anzhuomeiyan.png" alt=""><p>安卓手机开启美颜</p>
+<img src="../public/.gitbook/assets/anzhuomeiyan.png" alt="">
+<ImgDesc>安卓手机开启美颜</ImgDesc>
 
 ### 鼠标高亮功能
 
 路径：打开芦笋录屏客户端 - 右上角头像 - 设置 - 录制设置
 
-<img src="../public/.gitbook/assets/shubiaogaoliang.png" alt=""><p>芦笋鼠标高亮开关路径</p>
+<img src="../public/.gitbook/assets/shubiaogaoliang.png" alt="">
+<ImgDesc>芦笋鼠标高亮开关路径</ImgDesc>
 
 ### 快捷键功能
 
 路径：打开芦笋录屏客户端 - 右上角头像 - 设置 - 录制设置
 
-<img src="../public/.gitbook/assets/kuaijiejianlusun.png" alt=""><p>芦笋录屏快捷键设置</p>
+<img src="../public/.gitbook/assets/kuaijiejianlusun.png" alt="">
+<ImgDesc>芦笋录屏快捷键设置</ImgDesc>
 
 ***
 

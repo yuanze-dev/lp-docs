@@ -1,5 +1,5 @@
 ---
-description: 芦笋录屏如果在手机录制？无论是安卓手机，还是iOS手机，看这篇教程就够了～
+description: 芦笋录屏如果在手机录制？无论是安卓手机，还是 iOS 手机，看这篇教程就够了～
 ---
 
 # 手机端芦笋录屏攻略
@@ -8,29 +8,29 @@ description: 芦笋录屏如果在手机录制？无论是安卓手机，还是i
 
 ### 安卓视频教程
 
-<br>
+
 
 <iframe src="https://lusun.com/embed/?id=KnLIirUaw9b" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ### 安卓图文教程
 
-<br>
+
 
 #### 👉**录制前的设置**
 
 1. 打开芦笋官网 [lusun.com](https://lusun.com/download?ref=help.lusun.com) 或者软件商城搜索「芦笋」并下载
-2. 打开手机设置 - 应用设置 - 应用管理 - 芦笋 - 打开芦笋通知权限 、 允许芦笋悬浮在所有应用最上层👇
+2. 打开手机设置 - 应用设置 - 应用管理 - 芦笋 - 打开芦笋通知权限、允许芦笋悬浮在所有应用最上层👇
 
 <div align="center">
   <img src="../public/.gitbook/assets/anzhuop1.png" alt="">
-  <p align="center" style="font-size:12px; margin-top:0;">lusun权限设置</p>
+  <p align="center" style="font-size:12px; margin-top:0;">lusun 权限设置</p>
 </div>
 
 3. 点击「创建视频」下方按钮开始录制，选择「允许芦笋悬浮在所有应用的最上层」以调用录制悬浮球，然后点击「立即开始」👇
 
 <div align="center">
   <img src="../public/.gitbook/assets/anzhuop2.png" alt="">
-  <p align="center" style="font-size:12px; margin-top:0;">打开 「允许显示在其他应用上层」</p>
+  <p align="center" style="font-size:12px; margin-top:0;">打开「允许显示在其他应用上层」</p>
 </div>
 
 #### 👉录制过程中的操作
@@ -60,13 +60,13 @@ description: 芦笋录屏如果在手机录制？无论是安卓手机，还是i
 
 ### iOS 视频教程
 
-<br>
+
 
 <iframe src="https://lusun.com/embed/?id=UDBTH8prKgU" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ### iOS 图文教程
 
-<br>
+
 
 #### 👉**录制前的设置**
 
@@ -78,21 +78,21 @@ description: 芦笋录屏如果在手机录制？无论是安卓手机，还是i
   <p align="center" style="font-size:12px; margin-top:0;">iOS 录制人像/屏幕模式</p>
 </div>
 
-3. 如果录制 「人像+文件」 模式，需要退出芦笋，从微信、WPS或其他软件 打开 pdf 格式文件，点击右上角三个点 - 使用其他应用打开 - 选择芦笋。然后选择屏幕方向、是否打开麦克风，点击「开始直播」👇
+3. 如果录制「人像 + 文件」模式，需要退出芦笋，从微信、WPS 或其他软件 打开 pdf 格式文件，点击右上角三个点 - 使用其他应用打开 - 选择芦笋。然后选择屏幕方向、是否打开麦克风，点击「开始直播」👇
 
 <div align="center">
   <img src="../public/.gitbook/assets/iosp2.png" alt="">
-  <p align="center" style="font-size:12px; margin-top:0;">iOS的人像+文件模式</p>
+  <p align="center" style="font-size:12px; margin-top:0;">iOS 的人像 + 文件模式</p>
 </div>
 
 #### 👉录制过程中的操作
 
 1. 「人像」或者「屏幕」模式下，你可以随意切换到想要讲解的界面
-2. 「人像+文件」模式下，你可以根据个人需要使用画笔辅助讲解
+2. 「人像 + 文件」模式下，你可以根据个人需要使用画笔辅助讲解
 3. 点击屏幕左上角红色键完成录制，你的视频会自动上传到空间👇
 
 <img src="../public/.gitbook/assets/iosp3.png" alt="">
-<ImgDesc>iOS录制后自动上传</ImgDesc>
+<ImgDesc>iOS 录制后自动上传</ImgDesc>
 
 #### 👉录制后的视频编辑与分享
 
@@ -101,7 +101,7 @@ description: 芦笋录屏如果在手机录制？无论是安卓手机，还是i
 3. 你还可以点击视频上方的「高级报表」，查看视频访问数据
 
 <img src="../public/.gitbook/assets/iosp4.jpeg" alt="">
-<ImgDesc>iOS视频分享</ImgDesc>
+<ImgDesc>iOS 视频分享</ImgDesc>
 
 以上就是芦笋录屏手机端的全部介绍了，希望对你有所帮助。
 

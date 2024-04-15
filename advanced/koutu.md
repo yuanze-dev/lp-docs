@@ -16,7 +16,8 @@ description: 如果你录制的人像希望是抠图效果的，可以参考以�
 2. 鼠标放到人像上，点击「抠图人像」即可
 3. 打开要讲解的 PPT 等页面，人像自动出现在页面上，即可「开始录制」
 
-<img src="../public/.gitbook/assets/bqkouxiang.png" alt=""><p>芦笋录屏一键抠人像</p>
+<img src="../public/.gitbook/assets/bqkouxiang.png" alt="">
+<ImgDesc>芦笋录屏一键抠人像</ImgDesc>
 
 ### 👉绿幕抠像法
 
@@ -24,7 +25,8 @@ description: 如果你录制的人像希望是抠图效果的，可以参考以�
 2. 打开绿幕功能即可一键扣除背景
 3. 调整颜色、相似度等参数，实现较好的抠图效果后即可「开始录制」
 
-<img src="../public/.gitbook/assets/LMkouxiang.png" alt=""><p>芦笋绿幕抠像</p>
+<img src="../public/.gitbook/assets/LMkouxiang.png" alt="">
+<ImgDesc>芦笋绿幕抠像</ImgDesc>
 
 ## 👀常见问题
 
@@ -39,7 +41,8 @@ A2：「绿幕抠像」模式打开时，没有办法使用「白墙抠像」，
 Q3: 使用「绿幕抠像」法，打开绿布功能后，人像和背景都非常模糊\
 A3：「绿幕抠像」法需要在绿幕前录制，准备好绿布再打开该功能，没有绿布的情况下人像和背景都是模糊的
 
-<img src="../public/.gitbook/assets/hu.png" alt=""><p>人和背景模糊的状态</p>
+<img src="../public/.gitbook/assets/hu.png" alt="">
+<ImgDesc>人和背景模糊的状态</ImgDesc>
 
 芦笋录屏官网：请访问 [lusun.com](https://lusun.com)
 

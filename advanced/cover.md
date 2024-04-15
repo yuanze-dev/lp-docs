@@ -6,7 +6,8 @@
 2. 点击视频右侧的「封面」功能
 3. 上传本地 .jpg 或者.jpeg 格式的图片作为视频封面
 
-<img src="../public/.gitbook/assets/cover.png" alt=""><p>芦笋录屏添加视频封面示意图</p>
+<img src="../public/.gitbook/assets/cover.png" alt="">
+<ImgDesc>芦笋录屏添加视频封面示意图</ImgDesc>
 
 ### 👀常见问题
 

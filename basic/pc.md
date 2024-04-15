@@ -21,14 +21,14 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 
 ### 录制详情介绍
 
-<br>
+
 
 #### 三种录制模式
 
 芦笋录屏提供了【仅人像】、【人像+屏幕】、【仅屏幕】 三种录制模式，下面的简短视频演示了三种模式对应的效果，帮助你快速了解录制的主功能
 
 <iframe src="https://lusun.com/embed/?id=F7jdJEYKy67" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-<br>
+
 
 #### 四种人像模式
 
@@ -41,7 +41,7 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 
 <iframe src="https://lusun.com/embed/?id=HHZzCyivDIv" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-<br>
+
 
 #### 绿幕抠像功能
 
@@ -49,7 +49,7 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 
 <iframe src="https://lusun.com/embed/?id=Ikd1Rw6476i" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-<br>
+
 
 #### 其它设置项
 
@@ -77,7 +77,7 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 
 ### 👉云空间视频分享
 
-<br>
+
 
 <iframe src="https://lusun.com/embed/?id=lOgWlSiInYE" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
