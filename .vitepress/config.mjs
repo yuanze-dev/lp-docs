@@ -144,7 +144,7 @@ export default defineConfig({
       text: "最后更新于",
       formatOptions: {
         dateStyle: "short",
-        timeStyle: "medium",
+        timeStyle: "short",
       },
     },
     langMenuLabel: "多语言",
