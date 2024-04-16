@@ -24,7 +24,7 @@ description: 如果录制人像时，你想要使用虚拟头像，可以在当�
 第一步：下载芦笋虚拟头像 (snap camera)，点击👉[这里下载](https://lusun-snap-camera.oss-cn-beijing.aliyuncs.com/releases/v1.0.1/LuSun-SnapCamera-Helper-v1.0.1.exe)
 
 ::: warning 注意
-当前仅支持 Windows 电脑
+当前仅支持 Windows 电脑，建议将芦笋虚拟摄像头「安装」在「非 C 盘」内
 :::
 
 第二步：打开芦笋虚拟头像 (snap camera)，选择自己喜爱的卡通人像
@@ -36,5 +36,15 @@ description: 如果录制人像时，你想要使用虚拟头像，可以在当�
 
 <ImgCenter><img src="../public/.gitbook/assets/xuni.png" alt=""></ImgCenter>
 <ImgDesc>芦笋录屏 + 芦笋虚拟摄像头</ImgDesc>
+
+## 👀 常见问题
+
+Q1：安装失败的原因是什么？
+
+A1：如果你遇到了电脑安全拦截的提示，可以操作并解除这个提示，放心选择「运行」，芦笋虚拟摄像头是纯净无病毒的，可以放心使用。例如下图
+
+<ImgCenter><img src="../public/.gitbook/assets/wecom-temp-61574-2356e92d3759742c3c7aed6ea6e4d626.png" alt=""></ImgCenter>
+
+***
 
 推荐更多教程供你参考：[电脑端攻略](../basic/pc.md)｜[手机端攻略](../basic/phone.md)｜[会员特权](../basic/vip.md)｜[进阶教程](./)｜[联系我们](../contact.md)
