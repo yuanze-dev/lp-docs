@@ -53,6 +53,7 @@ export default defineConfig({
           { text: "虚拟头像使用教程", link: "/advanced/avatar" },
           { text: "自定义水印", link: "/advanced/watermark" },
           { text: "美颜等更多设置", link: "/advanced/moresetting" },
+          { text: "如何赚取收益", link: "/advanced/earnings" },
         ],
       },
       {
