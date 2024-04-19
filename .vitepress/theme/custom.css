@@ -16,6 +16,17 @@
   vertical-align: top
 }
 
+/* 内容居中 */
+.vp-doc th, .vp-doc tr, .vp-doc td {
+  text-align: center;
+}
+
+.vp-doc table {
+  display: table;
+  width: 100%;
+}
+
+
 /* 图片点击放大 */
 .medium-zoom-overlay {
   z-index: 30;
@@ -29,7 +40,6 @@
 #VPContent img {
   border-radius: 8px;
 }
-
 
 /* 左侧目录样式调整 */
 

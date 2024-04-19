@@ -6,8 +6,6 @@ description: 如果你需要进行美颜设置、快捷键设置等，可以参�
 
 你将通过这篇文档了解到如何开启/关闭美颜、鼠标高亮、镜像和快捷键设置等功能。
 
-鼠标高亮、美颜、镜像与快捷键
-
 <iframe src="https://lusun.com/embed/?id=bM1biODNMep" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ### 美颜设置 {#beauty}
@@ -44,4 +42,4 @@ description: 如果你需要进行美颜设置、快捷键设置等，可以参�
 
 ***
 
-推荐更多教程供你参考：[电脑端攻略](../basic/pc.md)｜[手机端攻略](../basic/phone.md)｜[会员特权](../basic/vip.md)｜[进阶教程](./)｜[联系我们](../contact.md)
+推荐更多教程供你参考：[电脑端攻略](../basic/pc.md)｜[手机端攻略](../basic/phone.md)｜[会员特权](../basic/vip.md)｜[联系我们](../contact.md)

@@ -11,9 +11,8 @@ description: 如果你遇到了录制的视频有点模糊，有一些卡顿，�
 **情况 2**：如果是录制的人像不清晰，可以在芦笋设置中，修改摄像头分辨率。分辨率选择的上限取决于摄像头硬件水平，一般电脑自带的摄像头像素比较低，人像可能会有模糊的情况，推荐使用外接高清摄像头。
 摄像头分辨率调整入口：打开芦笋客户端 - 右上角头像 - 设置 - 摄像头 - 分辨率
 
-<img src="../public/.gitbook/assets/fenbianlv.png" alt="">
+<ImgCenter><img src="../public/.gitbook/assets/fenbianlv.png" alt="" width="50%"></ImgCenter>
 <ImgDesc>设置分辨率</ImgDesc>
-
 
 ## 如果视频卡顿 {#slow}
 
@@ -23,7 +22,7 @@ description: 如果你遇到了录制的视频有点模糊，有一些卡顿，�
 
 摄像头分辨率调整入口：打开芦笋客户端 - 右上角头像 - 设置 - 摄像头 - 分辨率
 
-<ImgCenter><img src="../public/.gitbook/assets/shipinkadun.png" alt=""></ImgCenter>
+<ImgCenter><img src="../public/.gitbook/assets/shipinkadun.png" alt="" width="50%"></ImgCenter>
 <ImgDesc>设置入口，关闭美颜</ImgDesc>
 
 若以上教程无法解答问题，可以 [联系我们](../public/contact.md) 帮助解决。

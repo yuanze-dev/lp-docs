@@ -10,7 +10,7 @@ description: 如果你是 Mac 电脑需要录制系统声音，可以参考这�
 
 打开「芦笋录屏」后，勾选：录制电脑系统声音
 
-<ImgCenter><img src="../../public/.gitbook/assets/luzhixty.png" alt=""></ImgCenter>
+<ImgCenter><img src="../../public/.gitbook/assets/luzhixty.png" alt="" width="50%"></ImgCenter>
 <ImgDesc>芦笋录屏录制界面</ImgDesc>
 
 ### 第二步 {#second}
@@ -25,8 +25,10 @@ description: 如果你是 Mac 电脑需要录制系统声音，可以参考这�
 
 完成上述两步之后，点击开启录制，就可以录制 Mac 电脑的系统声音了
 
-请注意：**当前不支持戴耳机录制系统声音，请打开电脑外放录制**
+::: warning 注意
+当前不支持戴耳机录制系统声音，请打开电脑外放录制
+:::
 
 ***
 
-推荐更多教程供你参考：[电脑端攻略](../../basic/pc.md)｜[手机端攻略](../../basic/phone.md)｜[会员特权](../../basic/vip.md)｜[进阶教程](../../advanced/)｜[联系我们](../../contact.md)
+推荐更多教程供你参考：[电脑端攻略](../../basic/pc.md)｜[手机端攻略](../../basic/phone.md)｜[会员特权](../../basic/vip.md)｜[联系我们](../../contact.md)

@@ -11,7 +11,7 @@ description: 如果你无法使用芦笋录屏的虚拟背景或智能抠像，�
 2. 如果你开启了绿幕抠像，但录制场景没有实体绿幕时，是无法显示抠像效果的。需在在设置中关闭绿幕功能，即可使用虚拟背景与抠像功能\
    关闭路径：打开芦笋 - 右上角头像 - 设置 - 摄像头 - 我有绿幕
 
-<ImgCenter><img src="../../public/.gitbook/assets/guanbilvmu.png" alt=""></ImgCenter>
+<ImgCenter><img src="../../public/.gitbook/assets/guanbilvmu.png" alt="" width="80%"></ImgCenter>
 <ImgDesc>关闭绿幕</ImgDesc>
 
 ***

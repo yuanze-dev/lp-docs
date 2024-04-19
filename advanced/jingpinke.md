@@ -54,17 +54,22 @@ description: 这篇文章主要介绍了如何使用「芦笋录屏」制作基�
 
 #### 第四步：芦笋提词器设置 {fourth}
 
-你可以在下载芦笋提词器后_（_[_如何下载请点击查看_](https://apppublic/.gitbook.com/s/IaAf9gPFRCLVAnC2s9Pb/basic/download)_），_直接创建一条台词，然后开启提词
+你可以在下载芦笋提词器后 [如何下载请点击查看](https://docs.lusun.com/tcq/basic/download.html)，直接创建一条台词，然后开启提词
 
-1. **创建词条**[​](https://docs.lusun.com/tcq/basic/create.html#\_1-%E5%88%9B%E5%BB%BA%E8%AF%8D%E6%9D%A1)
+1. **创建词条**
 
 打开芦笋提词器，点击左上角顶部“+”，输入词条标题，以及提词内容，成功创建一个词条；当然如果你有已经准备好的词条内容，比如 Word 文档，你可以直接使用复制，粘贴进来
 
 <ImgCenter><img src="../public/.gitbook/assets/创建台词.gif" alt=""></ImgCenter>
 <ImgDesc>创建台词</ImgDesc>
 
-1. 开启提词。目前芦笋提词器有两种提词模式，匀速模式和智能跟读模式，详细内容可参考 [芦笋提词器开启提词教程](https://apppublic/.gitbook.com/s/IaAf9gPFRCLVAnC2s9Pb/basic/prompt)。
-2. 隐形提词。当你在芦笋提词器的客户端，开启设置「隐形提词」后，录制视频时演讲者可以看到提词内容，但视频成片不会显示提词器，效果图请参考：
+2. **开启提词**
+
+目前芦笋提词器有两种提词模式，匀速模式和智能跟读模式，详细内容可参考 [芦笋提词器开启提词教程](https://docs.lusun.com/tcq/basic/prompt.html)
+
+3. **隐形提词**
+
+当你在芦笋提词器的客户端，开启设置「隐形提词」后，录制视频时演讲者可以看到提词内容，但视频成片不会显示提词器，效果图请参考：
 
 <ImgCenter><img src="../public/.gitbook/assets/yinxingtici.gif" alt=""></ImgCenter>
 <ImgDesc>隐形提词后的录制效果</ImgDesc>
@@ -76,4 +81,4 @@ description: 这篇文章主要介绍了如何使用「芦笋录屏」制作基�
 
 ***
 
-推荐阅读：[芦笋录屏欢迎你](../)｜[芦笋提词器欢迎你](https://apppublic/.gitbook.com/o/d5LW2O2UeXmQ1ffVO6fD/s/IaAf9gPFRCLVAnC2s9Pb/)
+推荐阅读：[芦笋录屏欢迎你](../)｜[芦笋提词器欢迎你](https://docs.lusun.com/tcq/)

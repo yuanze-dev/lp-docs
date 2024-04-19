@@ -36,4 +36,4 @@ description: 这里的常见问题主要介绍了芦笋录屏视频存储到哪�
 
 ***
 
-推荐更多教程供你参考：[电脑端攻略](../basic/pc.md)｜[手机端攻略](../basic/phone.md)｜[会员特权](../basic/vip.md)｜[进阶教程](../advanced/)｜[联系我们](../contact.md)
+推荐更多教程供你参考：[电脑端攻略](../basic/pc.md)｜[手机端攻略](../basic/phone.md)｜[会员特权](../basic/vip.md)｜[联系我们](../contact.md)

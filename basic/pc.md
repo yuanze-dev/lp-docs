@@ -55,14 +55,14 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 
 <iframe src="https://lusun.com/embed/?id=etvxS4eOK06" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-### 👉录制后视频存储 {#save}
+### 👉 录制后视频存储 {#save}
 
 使用芦笋录制的视频，可以选择保存到本地，也可以选择保存到自己的云空间
 
 <ImgCenter><img src="../public/.gitbook/assets/download.gif" alt=""></ImgCenter>
 <ImgDesc>录屏后保存到本地/云空间</ImgDesc>
 
-### 👉云空间视频分享 {#share}
+### 👉 云空间视频分享 {#share}
 
 <iframe src="https://lusun.com/embed/?id=lOgWlSiInYE" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
@@ -75,4 +75,4 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 
 ***
 
-推荐更多教程供你参考：[手机端攻略](phone.md)｜[会员特权](vip.md)｜[进阶教程](../advanced/)｜[常见问题](../faq.md)｜[联系我们](../contact.md)
+推荐更多教程供你参考：[手机端攻略](phone.md)｜[会员特权](vip.md)｜[常见问题](../faq.md)｜[联系我们](../contact.md)

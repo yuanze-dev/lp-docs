@@ -17,7 +17,7 @@ description: 如果遇到摄像头打不开怎么办？可以按照以下方法
 
 1. 选择其他摄像头列表里的其他选项，看是否能正常显示
 
-<ImgCenter><img src="../../public/.gitbook/assets/qitashexiangtou.png" alt=""></ImgCenter>
+<ImgCenter><img src="../../public/.gitbook/assets/qitashexiangtou.png" alt="" width="50%"></ImgCenter>
 <ImgDesc>选择其他摄像头看看是否能打开</ImgDesc>
 
 3. 若仍无法显示，可使用电脑微信的视频通话功能，检查摄像头是否正常；

@@ -9,7 +9,7 @@ export default defineConfig({
     "芦笋录屏，极简视频录制工具。同时录制人像和屏幕，美颜、虚拟头像等让视频信息更生动；支持视频一键分享，在线剪辑等。",
   lang: "zh-Hans",
   head: [
-    ["link", { rel: "icon", href: "/lp/favicon.ico" }],
+    ["link", { rel: "icon", href: "/lp/logo.svg" }],
     [
       "script",
       {},
@@ -29,6 +29,7 @@ export default defineConfig({
     },
   },
   themeConfig: {
+    logo: "/logo.svg",
     nav: [
       { text: "芦笋提词器", link: "https://tcq.lusun.com" },
       { text: "关于我们", link: "https://lusun.com/about" },
