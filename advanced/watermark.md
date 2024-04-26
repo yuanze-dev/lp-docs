@@ -1,5 +1,5 @@
 ---
-description: 你可以通过添加自定义水印，增加视频所属标识，防止他人盗用视频
+description: 这里介绍的是如何给芦笋录屏的视频添加水印
 ---
 
 # 自定义水印
@@ -8,15 +8,23 @@ description: 你可以通过添加自定义水印，增加视频所属标识，�
 
 <iframe src="https://lusun.com/embed/?id=qPSIm6zpnBQ" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-## 图文教程 {#post}
+## 文字教程 {#post}
 
-如果你希望通过添加自定义水印来增加视频所属标识，起到防止他人盗用视频的效果，你可以尝试以下方法添加。
+水印作用是什么？可以增加视频所属标识，防止他人盗用视频
 
-### 添加水印的入口在哪里？ {#where}
+### 添加水印入口 {#where}
 
-你可以打开电脑上的「[芦笋云空间](https://lusun.com/dashboard/videos)」，找到需要添加水印的视频，播放器右侧功能栏第 4 个为添加水印
+你可以进入「[芦笋录屏云空间](https://lusun.com/dashboard/videos)」打开视频播放界面，播放器右侧功能栏第 4 个为添加水印
 
-<ImgCenter><img src="../public/.gitbook/assets/shuiyin.png" alt="" width="375"></ImgCenter>
-<ImgDesc>芦笋录屏添加水印入口</ImgDesc>
+<ImgCenter><img src="../public/.gitbook/assets/watermark.png" alt=""></ImgCenter>
+<ImgDesc>设置水印的入口</ImgDesc>
 
-目前，你可以设置水印的文字，并且可以调整透明度，以及位置
+水印支持自定义设置，你可以操作：文字水印自定义、透明度自定义、位置自定义
+
+<ImgCenter><img src="../public/.gitbook/assets/zidingyishuiyin.png" alt=""></ImgCenter>
+<ImgDesc>自定义水印</ImgDesc>
+
+***
+
+推荐更多教程供你参考：[电脑端攻略](../basic/pc.md)｜[手机端攻略](../basic/phone.md)｜[会员特权](../basic/vip.md)｜[进阶教程](./)｜[联系我们](../contact.md)\
+

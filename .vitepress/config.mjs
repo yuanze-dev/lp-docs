@@ -55,6 +55,9 @@ export default defineConfig({
           { text: "自定义水印", link: "/advanced/watermark" },
           { text: "美颜等更多设置", link: "/advanced/moresetting" },
           { text: "如何赚取收益", link: "/advanced/earnings" },
+          { text: "上传本地视频到芦笋空间", link: "/advanced/upload" },
+          { text: "文件夹功能&批量操作", link: "/advanced/folder" },
+          { text: "添加视频封面", link: "/advanced/addcover" },
         ],
       },
       {

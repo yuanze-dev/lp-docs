@@ -34,7 +34,8 @@ description: 如果你录制的人像希望是抠图效果的，可以参考以�
 
 A1：常见于 win10 以下的系统设备，需要下载驱动大师更新摄像头驱动后，再使用抠像功能
 
-<ImgCenter><img src="../public/.gitbook/assets/zhuanquan.png" alt=""></ImgCenter>
+<ImgCenter><img src="../public/.gitbook/assets/masaike.png" alt=""></ImgCenter>
+<ImgDesc>用户报错的示意截图</ImgDesc>
 
 **Q2：点击白墙抠像法的「抠图人像」没有反应**
 
