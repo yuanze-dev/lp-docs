@@ -48,7 +48,10 @@ export default defineConfig({
         text: "进阶教程",
         collapsed: false,
         items: [
-          { text: "用芦笋制作“基础教育精品课”", link: "/advanced/jingpinke" },
+          {
+            text: "用芦笋制作“基础教育精品课”",
+            link: "/advanced/jingpinke",
+          },
           { text: "两种人像抠图方式", link: "/advanced/koutu" },
           { text: "添加视频封面", link: "/advanced/cover" },
           { text: "虚拟头像使用教程", link: "/advanced/avatar" },
@@ -58,6 +61,7 @@ export default defineConfig({
           { text: "上传本地视频到芦笋空间", link: "/advanced/upload" },
           { text: "文件夹功能&批量操作", link: "/advanced/folder" },
           { text: "添加视频封面", link: "/advanced/addcover" },
+          { text: "芦笋群组", link: "/advanced/group" },
         ],
       },
       {
