@@ -8,7 +8,7 @@ name: Deploy
 
 jobs:
   # https://github.com/pnpm/action-setup/tree/v4/?tab=readme-ov-file#use-cache-to-reduce-installation-time
-  main-enviroment-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
