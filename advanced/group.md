@@ -64,7 +64,7 @@ cen
 
 1、可以在「设置」中的「权限管理」页面将其他的成员移除群组
 
-<ImgCenter><img src="../public/.gitbook/assets/qunzu 9.png" alt=""></ImgCenter>
+<ImgCenter><img src="../public/.gitbook/assets/qunzu9.png" alt=""></ImgCenter>
 
 2、解散群组可以在右上角的「设置」中「群组设置」页面点击「解散群组」即可
 
