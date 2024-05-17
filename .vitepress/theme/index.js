@@ -2,7 +2,6 @@
 import ImgCenter from "../components/ImgCenter.vue";
 import ImgDesc from "../components/ImgDesc.vue";
 import Link from "../components/Link.vue";
-import UserGroup from "../components/UserGroup.vue";
 import DefaultTheme from "vitepress/theme";
 import { onMounted, watch, nextTick } from "vue";
 import { useRoute } from "vitepress";
@@ -14,7 +13,6 @@ export default {
   ...DefaultTheme,
   extends: DefaultTheme,
   enhanceApp({ app }) {
-    app.component("UserGroup", UserGroup);
     app.component("ImgCenter", ImgCenter);
     app.component("ImgDesc", ImgDesc);
     app.component("Link", Link);
