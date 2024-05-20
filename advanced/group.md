@@ -14,11 +14,11 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 
 1、创建「芦笋群组」：
 
-（1）你可以通过访问「 [芦笋录屏云空间](https://lusun.com/dashboard/videos) 」，点击「芦笋群组」 + 加号
+「1」你可以通过访问「 [芦笋录屏云空间](https://lusun.com/dashboard/videos) 」，点击「芦笋群组」 + 加号
 
 <ImgCenter><img src="../public/.gitbook/assets/qunzu1.png" alt=""></ImgCenter>
 
-（2）输入「群组名称」、「群组简介」、「设置价格」后完成创建
+「2」输入「群组名称」、「群组简介」、「设置价格」后完成创建
 
 <ImgCenter><img src="../public/.gitbook/assets/qunzu2.png" alt=""></ImgCenter>
 
@@ -51,12 +51,14 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 <ImgCenter><img src="../public/.gitbook/assets/qunzu6.png" alt=""></ImgCenter>
 
 2、成员管理
-cen
+
    在群组的右上角点击「添加成员」，在这里可以复制我们的群组邀请链接，被邀请的用户点击链接后付相应的金额就可以加入到群组
 
 <ImgCenter><img src="../public/.gitbook/assets/qunzu7.png" alt=""></ImgCenter>
 
-3、群组的收入提现入口，点击右上角的头像，点击「交易中心」就可以进入到提现的入口，就可以将群组付费的钱提取到自己的账户上
+3、群组的收入提现入口
+
+点击右上角的头像，点击「交易中心」就可以进入到提现的入口，就可以将群组付费的钱提取到自己的账户上
 
 <ImgCenter><img src="../public/.gitbook/assets/qunzu8.png" alt=""></ImgCenter>
 
