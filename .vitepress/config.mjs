@@ -62,6 +62,7 @@ export default defineConfig({
           { text: "文件夹功能&批量操作", link: "/advanced/folder" },
           { text: "添加视频封面", link: "/advanced/addcover" },
           { text: "芦笋群组", link: "/advanced/group" },
+          { text: "字幕教程", link: "/advanced/word" },
         ],
       },
       {
