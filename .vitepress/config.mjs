@@ -63,6 +63,8 @@ export default defineConfig({
           { text: "添加视频封面", link: "/advanced/addcover" },
           { text: "芦笋群组", link: "/advanced/group" },
           { text: "字幕教程", link: "/advanced/word" },
+          { text: "在线录制", link: "/advanced/record" },
+          { text: "视频剪辑", link: "/advanced/video" },
         ],
       },
       {
