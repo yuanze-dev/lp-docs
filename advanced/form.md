@@ -16,7 +16,7 @@ description: 这里介绍了高级报表是什么以及如何操作
 
 &#x20;移动端：芦笋 App - 空间 - 任意视频的播放页面 - 视频下方可查看访客次数和观看次数以及标记观看次数
 
-<ImgCenter><img src="../public/.gitbook/assets/240524_05 (1).png" alt="" width="188"></ImgCenter>
+<ImgCenter><img src="../public/.gitbook/assets/240524_05.png" alt="" width="188"></ImgCenter>
 
 ## 高级报表数据包含 {#excel}
 
