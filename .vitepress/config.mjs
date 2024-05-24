@@ -65,6 +65,10 @@ export default defineConfig({
           { text: "字幕教程", link: "/advanced/word" },
           { text: "画笔功能", link: "/advanced/draw" },
           { text: "视频剪辑", link: "/advanced/video" },
+          { text: "高级报表", link: "/advanced/form" },
+          { text: "视频分享", link: "/advanced/share" },
+          { text: "视频观看", link: "/advanced/see" },
+          { text: "在线录制", link: "/advanced/online" },
         ],
       },
       {
