@@ -97,6 +97,7 @@ export default defineConfig({
           { text: "视频保存相关", link: "/faq/save" },
           { text: "如何隐藏录制工具栏", link: "/faq/hidebar" },
           { text: "录制的视频模糊", link: "/faq/blur" },
+          { text: "如何申请发票", link: "/faq/invoice" },
         ],
       },
       { text: "联系我们", link: "/contact" },
