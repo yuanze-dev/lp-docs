@@ -24,7 +24,7 @@ description: 这里介绍了如何使用在线录制
 
 2、可以录制麦克风声音、系统声音（Windows 系统）
 
-3、支持 720P 高清、1080P 超清录制
+3、支持 720P 高清、1080P 超清、2K 超高清录制
 
 <ImgCenter><img src="../public/.gitbook/assets/240524_03.png" alt="" width="375"></ImgCenter>
 
