@@ -14,7 +14,7 @@ description: 芦笋产品支持开具发票，你可以通过填写下面的表�
 发票信息一旦提交不支持修改，请在正式提交前，再次确认开票所需信息的准确性
 :::
 
-<ImgCenter><img width="60%" src="../public/.gitbook/assets/invoice.png" alt=""></ImgCenter>
+<ImgCenter><img width="100%" src="../public/.gitbook/assets/invoice2.png" alt=""></ImgCenter>
 
 
 如有其他需要咨询的问题，欢迎[联系我们](../contact.md)
