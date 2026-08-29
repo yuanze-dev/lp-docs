@@ -14,7 +14,7 @@ description: 目前芦笋录屏可以设置单视频付费观看，也可以设�
 
 ### 👉付费视频 {#pay}
 
-1. 你需要打开芦笋官网 [lusun.com](http://lusun.com/?ref=help.lusun.com)，点右上角登录账号，进入空间
+1. 你需要打开芦笋官网 [lusun.com](https://lusun.com/)，点右上角登录账号，进入空间
 2. 点击任意视频的分享键，设置为付费视频
 3. 输入价格并保存即可
 

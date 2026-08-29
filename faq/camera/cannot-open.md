@@ -24,9 +24,9 @@ description: 如果遇到摄像头打不开怎么办？可以按照以下方法
 4. 若微信能启动摄像头，可能摄像头被其他应用占用。可尝试重启电脑，再次打开芦笋录屏；
 5. 若摄像头仍无法使用，请尝试更新摄像头驱动，或去找电脑售后维修。
    1) win7 更新驱动：
-   [https://jingyan.baidu.com/article/14bd256e9efc5cfa6c261205.html](https://jingyan.baidu.com/article/14bd256e9efc5cfa6c261205.html?ref=help.lusun.com)
+   [https://jingyan.baidu.com/article/14bd256e9efc5cfa6c261205.html](https://jingyan.baidu.com/article/14bd256e9efc5cfa6c261205.html)
    2) win10 更新驱动：
-   [https://www.bkqs.com.cn/content/kn9q25l38.html](https://www.bkqs.com.cn/content/kn9q25l38.html?ref=help.lusun.com)
+   [https://www.bkqs.com.cn/content/kn9q25l38.html](https://www.bkqs.com.cn/content/kn9q25l38.html)
 
 ***
 

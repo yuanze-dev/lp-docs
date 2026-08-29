@@ -46,7 +46,7 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 
 你可以通过打开芦笋录屏的客户端，点击右上角的头像，里面支持「设置」更多，可以设置摄像头、宽高比例、开/关美颜、镜头翻转、鼠标高亮等。
 
-<ImgCenter><img src="https://help.lusun.com/content/images/2022/12/------2.png" alt=""></ImgCenter>
+<ImgCenter><img src="../public/.gitbook/assets/shezhiyincang.png" alt=""></ImgCenter>
 <ImgDesc>设置的界面展示</ImgDesc>
 
 #### 录制中的操作介绍 {#actions}

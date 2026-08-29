@@ -12,7 +12,7 @@ description: 这里介绍了如何使用在线录制
 
 操作方法：
 
-1、打开 360 浏览器/谷歌浏览器/Edge 浏览器/腾讯浏览器，搜索 [lusun.com](http://lusun.com/?ref=help.lusun.com) 进入芦笋官网
+1、打开 360 浏览器/谷歌浏览器/Edge 浏览器/腾讯浏览器，搜索 [lusun.com](https://lusun.com/) 进入芦笋官网
 
 2、点击「个人空间」，点击右上角的「在线录制」，即可召唤芦笋在线录屏功能
 
@@ -55,4 +55,4 @@ description: 这里介绍了如何使用在线录制
 * 点击录制面板的「小房子」图标，进入云空间
 * 为录制好的视频添加字幕、封面；剪辑视频；生成链接分享视频等
 
-[点我进入云空间](https://lusun.com/dashboard/videos?ref=help.lusun.com)
+[点我进入云空间](https://lusun.com/dashboard/videos)

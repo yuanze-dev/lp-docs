@@ -16,7 +16,7 @@ description: 这里介绍了怎样生成链接以及分享的设置
 
 ### 电脑端分享步骤 {#pc}
 
-1、打开芦笋的客户端，点击上方的小房子图标，可以进入[芦笋云空间](https://lusun.com/dashboard/videos/?ref=help.lusun.com)
+1、打开芦笋的客户端，点击上方的小房子图标，可以进入[芦笋云空间](https://lusun.com/dashboard/videos/)
 
 <ImgCenter><img src="../public/.gitbook/assets/240522_05.png" alt="" width="345"></ImgCenter>
 

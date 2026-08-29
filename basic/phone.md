@@ -14,7 +14,7 @@ description: 芦笋录屏如果在手机录制？无论是安卓手机，还是 
 
 #### 👉 录制前的设置 {#android-before}
 
-1. 打开芦笋官网 [lusun.com](https://lusun.com/download?ref=help.lusun.com) 或者软件商城搜索「芦笋」并下载
+1. 打开芦笋官网 [lusun.com](https://lusun.com/download) 或者软件商城搜索「芦笋」并下载
 2. 打开手机设置 - 应用设置 - 应用管理 - 芦笋 - 打开芦笋通知权限、允许芦笋悬浮在所有应用最上层👇
 
 <ImgCenter><img src="../public/.gitbook/assets/anzhuop1.png" alt=""></ImgCenter>

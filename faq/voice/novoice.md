@@ -15,9 +15,9 @@ description: 这里主要介绍了两类录制声音失败的排查方法
 3. 若麦克风的其他选项也没有声音，可以尝试使用电脑微信拨打语音电话，看对方能否听到你说话的声音
 4. 若以上方式都未能解决，大概率就是硬件的问题，可以尝试更新摄像头驱动，或找电脑售后维修。\
    1）win7 更新驱动：
-   [https://jingyan.baidu.com/article/ab69b2708de4386da7189fb7.html](https://jingyan.baidu.com/article/ab69b2708de4386da7189fb7.html?ref=help.lusun.com)
+   [https://jingyan.baidu.com/article/ab69b2708de4386da7189fb7.html](https://jingyan.baidu.com/article/ab69b2708de4386da7189fb7.html)
    2）win10 更新驱动：
-   [https://jingyan.baidu.com/article/7e4409532520076ec0e2eff3.html](https://jingyan.baidu.com/article/7e4409532520076ec0e2eff3.html?ref=help.lusun.com)
+   [https://jingyan.baidu.com/article/7e4409532520076ec0e2eff3.html](https://jingyan.baidu.com/article/7e4409532520076ec0e2eff3.html)
 
 <ImgCenter><img src="../../public/.gitbook/assets/xuanzemaikefeng.jpeg" alt="" width="50%"></ImgCenter>
 <ImgDesc>选择其他麦克风</ImgDesc>

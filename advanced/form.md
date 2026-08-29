@@ -10,7 +10,7 @@ description: 这里介绍了高级报表是什么以及如何操作
 
 ## 图文教程 {#text}
 
-桌面端：[芦笋云空间](https://lusun.com/dashboard/videos/?ref=help.lusun.com) - 任意视频的播放页面 - 视频的右上角为「高级报表」入口
+桌面端：[芦笋云空间](https://lusun.com/dashboard/videos/) - 任意视频的播放页面 - 视频的右上角为「高级报表」入口
 
 <ImgCenter><img src="../public/.gitbook/assets/240524_04.png" alt=""></ImgCenter>
 

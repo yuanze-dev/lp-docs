@@ -14,7 +14,7 @@ description: 这里介绍的是芦笋录屏的视频剪辑功能
 
 ## 图文教程 {#text}
 
-1、打开芦笋的客户端，点击上方的小房子图标，可以进入[芦笋云空间](https://lusun.com/dashboard/videos/?ref=help.lusun.com)
+1、打开芦笋的客户端，点击上方的小房子图标，可以进入[芦笋云空间](https://lusun.com/dashboard/videos/)
 
 <ImgCenter><img src="../public/.gitbook/assets/240521_004.png" alt="" width="371"></ImgCenter>
 
