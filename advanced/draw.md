@@ -42,5 +42,11 @@ description: 这里介绍的是芦笋如何使用画笔功能
 
 <ImgCenter><img src="../public/.gitbook/assets/240522_04.png" alt=""></ImgCenter>
 
+## 芦笋画布 {#huabu}
 
+打开方式：在网页端-个人空间，或电脑--客户端的录制侧边栏里面
 
+<ImgCenter><img src="../public/.gitbook/assets/huabu.png" alt=""></ImgCenter>
+<ImgDesc>画布打开方式</ImgDesc>
+
+<iframe src="https://lusun.com/embed/?id=RcYxtf6sXuR" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
