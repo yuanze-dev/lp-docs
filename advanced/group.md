@@ -63,7 +63,14 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 
 <ImgCenter><img src="../public/.gitbook/assets/qunzu7.png" alt=""></ImgCenter>
 
-4、群组的收入提现入口
+4、群组视频排序
+
+   在群组的右上角可以选择「视图」格式，也支持一键排序
+
+<ImgCenter><img src="../public/.gitbook/assets/qunzu11.png" alt=""></ImgCenter>
+
+
+5、群组的收入提现入口
 
 点击右上角的头像，点击「交易中心」就可以进入到提现的入口，就可以将群组付费的钱提取到自己的账户上
 
@@ -87,6 +94,8 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 （1）增删群组内视频，设置每个视频的分享权限
 
 （2）邀请 / 移出群组成员
+
+（3）修改群组成员备注
 
 ### 群组成员的权限 {#member}
 

@@ -32,7 +32,7 @@ description: 你可以通过这篇文章了解到「芦笋录屏是什么」以�
 >
 > 更多详情介绍，可查看👉 [电脑端芦笋录屏攻略](basic/pc.md)
 
-<iframe src="https://lusun.com/embed/?id=nrLsJuK8lZJ" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://lusun.com/embed/?id=xx6mcuYu5Tp" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ### 手机端功能演示 {#phone}
 
@@ -42,7 +42,7 @@ description: 你可以通过这篇文章了解到「芦笋录屏是什么」以�
 
 #### 安卓端教程 {#android}
 
-<iframe src="https://lusun.com/embed/?id=KnLIirUaw9b" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://lusun.com/embed/?id=Sc83oE0tpTA" width="100%" style="display: block; width: 100%; max-width: 360px; height: auto; aspect-ratio: 9 / 16; margin: 0 auto;" frameborder="0" allow="fullscreen;clipboard-write"></iframe>
 
 #### iOS 视频教程 {#ios}
 

@@ -8,7 +8,7 @@ description: 芦笋录屏如果在手机录制？无论是安卓手机，还是 
 
 ### 安卓视频教程 {#android-video}
 
-<iframe src="https://lusun.com/embed/?id=KnLIirUaw9b" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://lusun.com/embed/?id=Sc83oE0tpTA" width="100%" style="display: block; width: 100%; max-width: 360px; height: auto; aspect-ratio: 9 / 16; margin: 0 auto;" frameborder="0" allow="fullscreen;clipboard-write"></iframe>
 
 ### 安卓图文教程 {#android-post}
 

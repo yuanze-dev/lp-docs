@@ -14,10 +14,14 @@ description: 如果你需要进行美颜设置、快捷键设置等，可以参�
 
 #### 电脑端如何开启 {#pc}
 
-你可以通过打开芦笋录屏客户端 - 右上角头像 - 设置 - 录制设置，进行操作
+你可以通过打开芦笋录屏客户端 - 右上角头像 - 设置 - 录制设置，进行操作。
+或者点击头像下方的摄像头设置，进行操作。
+
+<ImgCenter><img src="../public/.gitbook/assets/meiyan.png" alt=""></ImgCenter>
+<ImgDesc>芦笋录屏电脑端美颜设置（新版）</ImgDesc>
 
 <ImgCenter><img src="../public/.gitbook/assets/meiyanjingxiang.png" alt=""></ImgCenter>
-<ImgDesc>芦笋录屏电脑端美颜设置</ImgDesc>
+<ImgDesc>芦笋录屏电脑端美颜设置（旧版）</ImgDesc>
 
 #### 安卓手机端如何开启 {#android}
 

@@ -14,6 +14,8 @@ description: 这里介绍的是芦笋录屏的视频剪辑功能
 
 ## 图文教程 {#text}
 
+### 云空间剪辑 {#edit1}
+
 1、打开芦笋的客户端，点击上方的小房子图标，可以进入[芦笋云空间](https://lusun.com/dashboard/videos/)
 
 <ImgCenter><img src="../public/.gitbook/assets/240521_004.png" alt="" width="371"></ImgCenter>
@@ -29,3 +31,9 @@ description: 这里介绍的是芦笋录屏的视频剪辑功能
 点击「保存」
 
 <ImgCenter><img src="../public/.gitbook/assets/240521_006.png" alt=""></ImgCenter>
+
+### 本地剪辑 {#edit2}
+
+打开芦笋的客户端，点击专业录制结束后，会直接跳转进入编辑器，精修视频
+
+<ImgCenter><img src="../public/.gitbook/assets/bianjiqi.png" alt=""></ImgCenter>

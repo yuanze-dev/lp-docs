@@ -6,7 +6,7 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 
 ## 整体介绍—如何使用电脑录制 {#overview}
 
-<iframe src="https://lusun.com/embed/?id=nrLsJuK8lZJ" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="https://lusun.com/embed/?id=xx6mcuYu5Tp" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 分步教程 {#part}
 
@@ -20,6 +20,17 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 <iframe src="https://lusun.com/embed/?id=Zom2AUGEPbx" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ### 录制详情介绍 {#details}
+
+#### 两种录制方式 {#two}
+
+芦笋录屏支持**极速录制**和**专业录制**
+
+**极速录制**：边录边传，视频可以直接上传到云空间或者保存本地
+
+**专业录制**：录制完，可以进入编辑器精修视频
+
+<ImgCenter><img src="../public/.gitbook/assets/liangzhong.png" alt=""></ImgCenter>
+<ImgDesc>两种录制方式</ImgDesc>
 
 #### 三种录制模式 {#three}
 
@@ -58,6 +69,8 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 ### 👉 录制后视频存储 {#save}
 
 使用芦笋录制的视频，可以选择保存到本地，也可以选择保存到自己的云空间
+
+<ImgCenter><img src="../public/.gitbook/assets/cunchu.png" alt=""></ImgCenter>
 
 <ImgCenter><img src="../public/.gitbook/assets/download.gif" alt=""></ImgCenter>
 <ImgDesc>录屏后保存到本地/云空间</ImgDesc>
