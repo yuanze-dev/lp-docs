@@ -4,6 +4,14 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   base: "/lp/",
   ignoreDeadLinks: true,
+  // 构建期注入原则数据 write key。静态站点只能读到构建时烘进产物的值，
+  // 因此这里读的是 CI 环境变量，不是运行时的 process.env。
+  // 缺省为空串：本地开发不初始化埋点，正式构建由工作流强制校验非空。
+  vite: {
+    define: {
+      __YUANZE_WRITE_KEY__: JSON.stringify(process.env.YUANZE_WRITE_KEY ?? ""),
+    },
+  },
   title: "芦笋录屏",
   description:
     "芦笋录屏，极简视频录制工具。同时录制人像和屏幕，美颜、虚拟头像等让视频信息更生动；支持视频一键分享，在线剪辑等。",
