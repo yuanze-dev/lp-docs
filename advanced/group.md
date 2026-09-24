@@ -18,7 +18,7 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 
 <ImgCenter><img src="../public/.gitbook/assets/qunzu1.png" alt=""></ImgCenter>
 
-「2」输入群组信息，你可以选择创建免费群组或付费群组。付费群组意味着其他人需要支付你设置的价格才能进入你的群组
+「2」输入群组信息，你可以选择创建免费群组或付费群组。付费群组意味着其他人需要支付你设置的价格才能进入你的群组，平台服务费为 15%
 
 <ImgCenter><img src="../public/.gitbook/assets/qunzu2_new.png" alt=""></ImgCenter>
 
@@ -72,7 +72,7 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 
 5、群组的收入提现入口
 
-点击右上角的头像，点击「交易中心」就可以进入到提现的入口，就可以将群组付费的钱提取到自己的账户上
+点击右上角的头像，点击「交易中心」就可以进入到提现的入口，就可以将群组付费的钱提取到自己的账户上（账户余额为群组收益扣除 15% 平台服务费后的金额）
 
 <ImgCenter><img src="../public/.gitbook/assets/qunzu8.png" alt=""></ImgCenter>
 
