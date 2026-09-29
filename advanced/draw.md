@@ -4,21 +4,30 @@ description: 这里介绍的是芦笋如何使用画笔功能
 
 # 画笔功能
 
-## 视频教程 {#video}
+## 芦笋画布视频教程 {#huabu}
+
+<iframe src="https://lusun.com/embed/?id=RcYxtf6sXuR" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+打开方式：在网页端-个人空间，或电脑--客户端的录制侧边栏里面
+
+<ImgCenter><img src="../public/.gitbook/assets/huabu.png" alt=""></ImgCenter>
+<ImgDesc>画布打开方式</ImgDesc>
+
+## 旧版视频教程 {#video}
 
 <iframe src="https://lusun.com/embed/?id=UXTH3BaneQr" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 图文教程 {#text}
 
-### PC 客户端教程 {#pc}
+### 电脑端画布教程 {#pc}
 
-1、打开电脑上的芦笋客户端
+1、打开电脑上的芦笋客户端/点击客户端logo进入芦笋云空间
 
 2、点击「开始录制」
 
-3、在工具栏中调用画笔功能，或使用快捷键打开 / 关闭画笔
+3、在工具栏中调用画布功能（画布也支持快捷键切换功能）
 
-<ImgCenter><img src="../public/.gitbook/assets/240522_01.png" alt="" width="563"></ImgCenter>
+<ImgCenter><img src="../public/.gitbook/assets/huabukjj.png" alt="" width="563"></ImgCenter>
 
 ### 安卓手机 / 平板教程 {#android}
 
@@ -42,11 +51,3 @@ description: 这里介绍的是芦笋如何使用画笔功能
 
 <ImgCenter><img src="../public/.gitbook/assets/240522_04.png" alt=""></ImgCenter>
 
-## 芦笋画布 {#huabu}
-
-打开方式：在网页端-个人空间，或电脑--客户端的录制侧边栏里面
-
-<ImgCenter><img src="../public/.gitbook/assets/huabu.png" alt=""></ImgCenter>
-<ImgDesc>画布打开方式</ImgDesc>
-
-<iframe src="https://lusun.com/embed/?id=RcYxtf6sXuR" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

@@ -6,7 +6,7 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 
 ## 视频教程 {#video}
 
-<iframe src="https://lusun.com/embed/?id=146sZjFJctN" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://lusun.com/embed/?id=Xrf07xvvBSN" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 文字教程 {#text}
 
@@ -53,19 +53,19 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 
 <ImgCenter><img src="../public/.gitbook/assets/qunzu5.png" alt=""></ImgCenter>
 
-   可以建第二章，在同一章视频内也可以拖拽，调整这两个视频的顺序，有多个视频也可以拖拽调整顺序，我们可以在右侧看到视频的目录，这个名字我们也可以自己编辑。
+   可以建第二章，在同一章视频内也可以拖拽，调整这两个视频的顺序，有多个视频也可以拖拽调整顺序，我们可以在右侧看到视频的目录，这个名字我们也可以自己编辑。一个群组内支持最多编辑四级目录。
 
 <ImgCenter><img src="../public/.gitbook/assets/qunzu6.png" alt=""></ImgCenter>
 
 3、成员管理
 
-   在群组的右上角点击「添加成员」，在这里可以复制我们的群组邀请链接，被邀请的用户点击链接后付相应的金额就可以加入到群组
+   在群组的右上角点击「添加成员」，在这里可以复制我们的群组邀请链接，被邀请的用户点击链接后付相应的金额或者提交通过申请就可以加入到群组了
 
 <ImgCenter><img src="../public/.gitbook/assets/qunzu7.png" alt=""></ImgCenter>
 
 4、群组视频排序
 
-   在群组的右上角可以选择「视图」格式，也支持一键排序
+   在群组的右上角可以选择「视图」格式，也支持一键快速排序（正序或倒序）
 
 <ImgCenter><img src="../public/.gitbook/assets/qunzu11.png" alt=""></ImgCenter>
 
@@ -79,7 +79,7 @@ description: 这里介绍了群组芦笋群组功能如何去使用
 
 ### 删除群组 {#delete}
 
-1、可以在「设置」中的「权限管理」页面将其他的成员移除群组
+1、移除成员可以在「设置」中的「权限管理」页面将其他的成员移除群组
 
 <ImgCenter><img src="../public/.gitbook/assets/qunzu9.png" alt=""></ImgCenter>
 

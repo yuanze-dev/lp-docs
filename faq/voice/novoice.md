@@ -19,7 +19,7 @@ description: 这里主要介绍了两类录制声音失败的排查方法
    2）win10 更新驱动：
    [https://jingyan.baidu.com/article/7e4409532520076ec0e2eff3.html](https://jingyan.baidu.com/article/7e4409532520076ec0e2eff3.html)
 
-<ImgCenter><img src="../../public/.gitbook/assets/xuanzemaikefeng.jpeg" alt="" width="50%"></ImgCenter>
+<ImgCenter><img src="../../public/.gitbook/assets/xuanzemaikefeng.jpg" alt="" width="80%"></ImgCenter>
 <ImgDesc>选择其他麦克风</ImgDesc>
 
 ### ❓ 没有系统声音 {#system}
@@ -28,7 +28,7 @@ description: 这里主要介绍了两类录制声音失败的排查方法
 2. 部分会议软件（如腾讯会议）有录音限制，无法收录软件内声音，建议调大电脑扬声器音量录制，不要佩戴耳机
 3. 苹果电脑录制系统声音，需要安装声卡驱动，详见[Mac 教程文档](mac.md)
 
-<ImgCenter><img src="../../public/.gitbook/assets/luzhixitongyin.jpeg" alt="" width="50%"></ImgCenter>
+<ImgCenter><img src="../../public/.gitbook/assets/luzhixitongyin.png" alt="" width="50%"></ImgCenter>
 <ImgDesc>Windows 开启录制系统声音</ImgDesc>
 
 ## 👉 手机端录制没有声音 {#phone}

@@ -6,11 +6,11 @@ description: 这里介绍的是芦笋录屏电脑端的字幕教程，移动端�
 
 ## 视频教程 {#video}
 
-<iframe src="https://lusun.com/embed/?id=CDmkPt85Aa8" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://lusun.com/embed/?id=Rl8u4HXayYH" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 图文教程 {text}
 
-1、打开芦笋的客户端，点击上方的小房子图标，可以进入[芦笋云空间](https://lusun.com/dashboard/videos/)
+1、打开芦笋的客户端，点击上方的logo，可以进入[芦笋云空间](https://lusun.com/dashboard/videos/)
 
 <ImgCenter><img src="../public/.gitbook/assets/240521_001.png" alt="" width="375"></ImgCenter>
 
@@ -18,6 +18,7 @@ description: 这里介绍的是芦笋录屏电脑端的字幕教程，移动端�
 
 <ImgCenter><img src="../public/.gitbook/assets/240521_002.png" alt=""></ImgCenter>
 
-3、打开「字幕」按钮，就可以智能识别字幕了
+3、打开「字幕」按钮，就可以智能识别字幕了。同时也支持直接修改生成字幕
 
 <ImgCenter><img src="../public/.gitbook/assets/240521_003.png" alt=""></ImgCenter>
+

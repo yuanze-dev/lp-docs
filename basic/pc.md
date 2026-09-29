@@ -6,7 +6,7 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 
 ## 整体介绍—如何使用电脑录制 {#overview}
 
-<iframe src="https://lusun.com/embed/?id=xx6mcuYu5Tp" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://lusun.com/embed/?id=7IuthBZuwLx" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 分步教程 {#part}
 
@@ -51,14 +51,13 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 
 你可以在芦笋录屏使用绿幕抠像功能，实体绿幕会让抠像的效果更精致。可参考以下视频了解详情
 
-<iframe src="https://lusun.com/embed/?id=Ikd1Rw6476i" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://lusun.com/embed/?id=mB2OogeJnrt" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 #### 其它设置项 {#others}
 
-你可以通过打开芦笋录屏的客户端，点击右上角的头像，里面支持「设置」更多，可以设置摄像头、宽高比例、开/关美颜、镜头翻转、鼠标高亮等。
+你可以通过打开芦笋录屏的客户端，点击上方的「设置」，可以设置主题颜色、录制行为、快捷键等。在「人像+屏幕」的人像下方有个「摄像头设置」点击进入可以设置人像形状、开/关美颜、镜头翻转、人物背景等。
 
-<ImgCenter><img src="../public/.gitbook/assets/shezhiyincang.png" alt=""></ImgCenter>
-<ImgDesc>设置的界面展示</ImgDesc>
+<iframe src="https://lusun.com/embed/?id=iCqd6nkzT7D" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 #### 录制中的操作介绍 {#actions}
 
@@ -72,16 +71,13 @@ description: 这篇介绍了如何使用电脑端使用芦笋录屏，以及芦�
 
 <ImgCenter><img src="../public/.gitbook/assets/cunchu.png" alt=""></ImgCenter>
 
-<ImgCenter><img src="../public/.gitbook/assets/download.gif" alt=""></ImgCenter>
-<ImgDesc>录屏后保存到本地/云空间</ImgDesc>
-
 ### 👉 云空间视频分享 {#share}
 
 <iframe src="https://lusun.com/embed/?id=lOgWlSiInYE" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 你可以单视频分享文件，也可以整个文件夹一起分享。
 
-* 开放分享，点击链接即可观看
+* 开启分享，点击链接即可观看
 * 密码分享，输入密码即可观看
 
 你也可以选择随时关闭分享按钮，关闭后，Ta 人将无法访问你的文件。
