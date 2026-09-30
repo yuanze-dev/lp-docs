@@ -16,7 +16,7 @@ description: 你可以通过这篇文章了解到「芦笋录屏是什么」以�
 
 ## 芦笋录屏是什么？{#what}
 
-芦笋录屏是新一代的录屏工具，跟传统录屏工具相比，芦笋不仅可以录制屏幕，它还可以同时录制「人像 + 屏幕」，此外芦笋录屏还提供了美颜、虚拟背景、绿幕抠像、轻剪辑等更多高级功能。你可以将录制好的视频，通过链接分享给 Ta，Ta 可以一键访问链接通过电脑或手机随时查看和发表评论。如果你想体验芦笋录屏，可通过以下官网链接访问
+芦笋录屏是新一代的录屏工具，跟传统录屏工具相比，芦笋不仅可以录制屏幕，它还可以同时录制「人像 + 屏幕」，此外芦笋录屏还提供了美颜、虚拟背景、绿幕抠像、视频剪辑等更多高级功能。你可以将录制好的视频，通过链接分享给 Ta，Ta 可以一键访问链接通过电脑或手机随时查看和发表评论。如果你想体验芦笋录屏，可通过以下官网链接访问
 
 <Link title="芦笋录屏官网——新一代极简视频录制工具" logo="https://lusun.com/logo.png" url="https://lusun.com"></Link>
 
@@ -32,7 +32,7 @@ description: 你可以通过这篇文章了解到「芦笋录屏是什么」以�
 >
 > 更多详情介绍，可查看👉 [电脑端芦笋录屏攻略](basic/pc.md)
 
-<iframe src="https://lusun.com/embed/?id=xx6mcuYu5Tp" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://lusun.com/embed/?id=7IuthBZuwLx" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ### 手机端功能演示 {#phone}
 

@@ -10,13 +10,13 @@ description: 这里介绍的是芦笋录屏的视频剪辑功能
 
 ## 视频教程 {#video}
 
-<iframe src="https://lusun.com/embed/?id=p90y93rvBb2" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://lusun.com/embed/?id=tWu4s257vS4" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 图文教程 {#text}
 
 ### 云空间剪辑 {#edit1}
 
-1、打开芦笋的客户端，点击上方的小房子图标，可以进入[芦笋云空间](https://lusun.com/dashboard/videos/)
+1、打开芦笋的客户端，点击上方的logo，可以进入[芦笋云空间](https://lusun.com/dashboard/videos/)
 
 <ImgCenter><img src="../public/.gitbook/assets/240521_004.png" alt="" width="371"></ImgCenter>
 
@@ -28,7 +28,7 @@ description: 这里介绍的是芦笋录屏的视频剪辑功能
 
 逐一选中不想要的视频片段，点击「删除」
 
-点击「保存」
+最后点击「保存」
 
 <ImgCenter><img src="../public/.gitbook/assets/240521_006.png" alt=""></ImgCenter>
 

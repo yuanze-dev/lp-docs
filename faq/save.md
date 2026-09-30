@@ -10,10 +10,15 @@ description: 这里的常见问题主要介绍了芦笋录屏视频存储到哪�
 
 ### Q1. 本地的视频保存到哪里了？{#q1}
 
-目前你的视频可以选择保存到本地，保存本地的路径支持你自定义，可通过如下方式查询上次视频保存位置：点击录制设置面板右上角头像 →下拉框点击设置→录制设置"本地保存路径"
+录制的视频可以选择保存到本地，保存本地的路径支持自定义：点击主窗口设置 → 通用 → 存储
 
 <ImgCenter><img src="../public/.gitbook/assets/shipinbaocunbendi.png" alt=""></ImgCenter>
-<ImgDesc>该路径为上次视频保存位置，点击"打开"按钮，自动弹出对应文件夹</ImgDesc>
+<ImgDesc>自定义视频存储路径</ImgDesc>
+
+也可通过如下方式查询上次视频保存位置：点击客户端主窗口上方的历史录制 
+
+<ImgCenter><img src="../public/.gitbook/assets/lishiluzhi.png" alt=""></ImgCenter>
+<ImgDesc>该路径为上次视频保存位置，点击"文件夹"按钮，自动弹出对应文件夹</ImgDesc>
 
 ### Q2. 保存到提示本地失败怎么办？{#q2}
 
@@ -21,9 +26,7 @@ description: 这里的常见问题主要介绍了芦笋录屏视频存储到哪�
 
 1. 将保存路径设置为保存到「桌面」
 2. 检查并避免保存路径中有中文命名的文件
-3. 若上述两种方法无法解决：尝试上传到云空间再下载（如下图所示）
-
-<ImgCenter><img src="../public/.gitbook/assets/shipinbaocunbendi.png" alt=""></ImgCenter>
+3. 若上述两种方法无法解决：尝试先上传到云空间再下载视频到本地（
 
 提示保存失败的视频 - 切换保存地点为："保存至云空间"，然后从「云空间」下载视频
 

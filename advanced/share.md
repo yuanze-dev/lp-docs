@@ -6,7 +6,7 @@ description: 这里介绍了怎样生成链接以及分享的设置
 
 ## 视频教程 {#video}
 
-<iframe src="https://lusun.com/embed/?id=WCGrWfUqbGh" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://lusun.com/embed/?id=AUnsMxah3gr" width="100%" height="500px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 图文教程 {#text}
 
@@ -16,9 +16,9 @@ description: 这里介绍了怎样生成链接以及分享的设置
 
 ### 电脑端分享步骤 {#pc}
 
-1、打开芦笋的客户端，点击上方的小房子图标，可以进入[芦笋云空间](https://lusun.com/dashboard/videos/)
+1、打开芦笋的客户端，点击上方的芦笋logo，可以进入[芦笋云空间](https://lusun.com/dashboard/videos/)
 
-<ImgCenter><img src="../public/.gitbook/assets/240522_05.png" alt="" width="345"></ImgCenter>
+<ImgCenter><img src="../public/.gitbook/assets/240521_001.png" alt="" width="375"></ImgCenter>
 
 2、找到想要分享的视频，点击下方的一个分享键，就来到了分享设置的界面
 
@@ -28,7 +28,7 @@ description: 这里介绍了怎样生成链接以及分享的设置
 
 公开分享的设置：
 
-「1」放分享，打开链接即可观看
+「1」开启分享，打开链接即可观看
 
 「2」密码分享，输入密码才能观看
 
@@ -42,7 +42,7 @@ description: 这里介绍了怎样生成链接以及分享的设置
 
 ### 移动端分享的步骤 {#mobile}
 
-打开芦笋 App - 点击视频/文件夹右侧三个点 - 分享设置 - 复制链接
+打开芦笋 App - 点击视频/文件夹右侧的方向按钮 - 分享设置 - 复制链接
 
 <ImgCenter><img src="../public/.gitbook/assets/240522_09.png" alt=""></ImgCenter>
 
