@@ -15,14 +15,19 @@ description: 如果遇到摄像头打不开怎么办？可以按照以下方法
 <ImgCenter><img src="../../public/.gitbook/assets/shexiangtouwulikaigaun.png" alt=""></ImgCenter>
 <ImgDesc>摄像头物理开关</ImgDesc>
 
-1. 选择其他摄像头列表里的其他选项，看是否能正常显示
+2. 选择其他摄像头列表里的其他选项，看是否能正常显示
 
 <ImgCenter><img src="../../public/.gitbook/assets/qitashexiangtou.png" alt="" width="80%"></ImgCenter>
 <ImgDesc>选择其他摄像头看看是否能打开</ImgDesc>
 
-3. 若仍无法显示，可使用电脑微信的视频通话功能，检查摄像头是否正常；
-4. 若微信能启动摄像头，可能摄像头被其他应用占用。可尝试重启电脑，再次打开芦笋录屏；
-5. 若摄像头仍无法使用，请尝试更新摄像头驱动，或去找电脑售后维修。
+3. 检查是否开启了摄像头增强模式，如果开启了，建议关闭
+
+<ImgCenter><img src="../../public/.gitbook/assets/增强模式.png" alt="" width="80%"></ImgCenter>
+<ImgDesc>关闭摄像头增强模式</ImgDesc>
+
+4. 若仍无法显示，可使用电脑微信的视频通话功能，检查摄像头是否正常；
+5. 若微信能启动摄像头，可能摄像头被其他应用占用。可尝试重启电脑，再次打开芦笋录屏；
+6. 若摄像头仍无法使用，请尝试更新摄像头驱动，或去找电脑售后维修。
    1) win7 更新驱动：
    [https://jingyan.baidu.com/article/14bd256e9efc5cfa6c261205.html](https://jingyan.baidu.com/article/14bd256e9efc5cfa6c261205.html)
    2) win10 更新驱动：

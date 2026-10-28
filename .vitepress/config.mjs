@@ -60,6 +60,10 @@ export default defineConfig({
             text: "用芦笋制作“基础教育精品课”",
             link: "/advanced/jingpinke",
           },
+          {
+            text: "两种录制方式",
+            link: "/advanced/two-recording-methods-v1",
+          },
           { text: "两种人像抠图方式", link: "/advanced/koutu" },
           { text: "添加视频封面", link: "/advanced/cover" },
           { text: "虚拟头像使用教程", link: "/advanced/avatar" },
